@@ -1,0 +1,43 @@
+c:\users\lixun\documents\visual studio 2010\Projects\ComHelper\ComHelper\bin\Debug\ComHelper.exe.config
+c:\users\lixun\documents\visual studio 2010\Projects\ComHelper\ComHelper\obj\x86\Debug\ComHelper.Form1.resources
+c:\users\lixun\documents\visual studio 2010\Projects\ComHelper\ComHelper\obj\x86\Debug\ComHelper.Properties.Resources.resources
+c:\users\lixun\documents\visual studio 2010\Projects\ComHelper\ComHelper\obj\x86\Debug\ComHelper.csproj.GenerateResource.Cache
+c:\users\lixun\documents\visual studio 2010\Projects\ComHelper\ComHelper\bin\Debug\ComHelper.exe
+c:\users\lixun\documents\visual studio 2010\Projects\ComHelper\ComHelper\bin\Debug\ComHelper.pdb
+c:\users\lixun\documents\visual studio 2010\Projects\ComHelper\ComHelper\obj\x86\Debug\ComHelper.exe
+c:\users\lixun\documents\visual studio 2010\Projects\ComHelper\ComHelper\obj\x86\Debug\ComHelper.pdb
+C:\Users\lixun\documents\visual studio 2010\Projects\ComHelper\ComHelper\obj\x86\Debug\ComHelper.csprojResolveAssemblyReference.cache
+G:\8、上位机\ComHelper\bin\Debug\ComHelper.exe.config
+G:\8、上位机\ComHelper\obj\x86\Debug\ComHelper.exe
+G:\8、上位机\ComHelper\obj\x86\Debug\ComHelper.pdb
+G:\8、上位机\ComHelper\obj\x86\Debug\ComHelper.Form1.resources
+G:\8、上位机\ComHelper\obj\x86\Debug\ComHelper.Properties.Resources.resources
+G:\8、上位机\ComHelper\obj\x86\Debug\ComHelper.csproj.GenerateResource.Cache
+G:\8、上位机\ComHelper\bin\Debug\ComHelper.exe
+G:\8、上位机\ComHelper\bin\Debug\ComHelper.pdb
+E:\CS-客服\韩国KC认证\ComHelper20170301\bin\Debug\ComHelper.exe.config
+E:\CS-客服\韩国KC认证\ComHelper20170301\obj\x86\Debug\ComHelper.exe
+E:\CS-客服\韩国KC认证\ComHelper20170301\obj\x86\Debug\ComHelper.pdb
+E:\CS-客服\韩国KC认证\ComHelper20170301\bin\Debug\ComHelper.exe
+E:\CS-客服\韩国KC认证\ComHelper20170301\bin\Debug\ComHelper.pdb
+E:\CS-客服\韩国KC认证\ComHelper20170301\obj\x86\Debug\ComHelper.csprojResolveAssemblyReference.cache
+E:\CS-客服\韩国KC认证\ComHelper20170301\obj\x86\Debug\ComHelper.Form1.resources
+E:\CS-客服\韩国KC认证\ComHelper20170301\obj\x86\Debug\ComHelper.Properties.Resources.resources
+E:\CS-客服\韩国KC认证\ComHelper20170301\obj\x86\Debug\ComHelper.csproj.GenerateResource.Cache
+E:\CS-客服\韩国KC认证\备份\ComHelper20170309\bin\Debug\ComHelper.exe.config
+E:\CS-客服\韩国KC认证\备份\ComHelper20170309\obj\x86\Debug\ComHelper.exe
+E:\CS-客服\韩国KC认证\备份\ComHelper20170309\obj\x86\Debug\ComHelper.pdb
+E:\CS-客服\韩国KC认证\备份\ComHelper20170309\bin\Debug\ComHelper.exe
+E:\CS-客服\韩国KC认证\备份\ComHelper20170309\bin\Debug\ComHelper.pdb
+E:\CS-客服\韩国KC认证\备份\ComHelper20170309\obj\x86\Debug\ComHelper.csprojResolveAssemblyReference.cache
+E:\CS-客服\韩国KC认证\备份\ComHelper20170309\obj\x86\Debug\ComHelper.Form11.resources
+E:\CS-客服\韩国KC认证\备份\ComHelper20170309\obj\x86\Debug\ComHelper.Properties.Resources.resources
+E:\CS-客服\韩国KC认证\备份\ComHelper20170309\obj\x86\Debug\ComHelper.csproj.GenerateResource.Cache
+E:\Workspace\CS-FixedFrequence\ChipseaFixedFrequence\bin\Debug\ComHelper.exe.config
+E:\Workspace\CS-FixedFrequence\ChipseaFixedFrequence\obj\x86\Debug\ComHelper.exe
+E:\Workspace\CS-FixedFrequence\ChipseaFixedFrequence\obj\x86\Debug\ComHelper.pdb
+E:\Workspace\CS-FixedFrequence\ChipseaFixedFrequence\obj\x86\Debug\ComHelper.Form11.resources
+E:\Workspace\CS-FixedFrequence\ChipseaFixedFrequence\obj\x86\Debug\ComHelper.Properties.Resources.resources
+E:\Workspace\CS-FixedFrequence\ChipseaFixedFrequence\obj\x86\Debug\ComHelper.csproj.GenerateResource.Cache
+E:\Workspace\CS-FixedFrequence\ChipseaFixedFrequence\bin\Debug\ComHelper.exe
+E:\Workspace\CS-FixedFrequence\ChipseaFixedFrequence\bin\Debug\ComHelper.pdb
